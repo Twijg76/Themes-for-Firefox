@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "name": "Highlighted Blue and Grey",
   "applications":{
   "gecko": {
@@ -19,10 +19,10 @@
       "tab_background_text": "white",
       "tab_background_separator": "rgb(225, 225, 225)",
       "tab_loading": "rgb(0, 21, 255)",
-      "tab_line": "rgb(0, 21, 255)",
+      "tab_line": "rgb(0, 100, 200)",
 
       "tab_text":"rgb(225, 225, 225)",
-      "tab_selected": "rgb(0, 21, 255)",
+      "tab_selected": "rgb(0, 100, 200)",
 
       "toolbar_bottom_seperator": "rgb(10, 0, 85)",
       "toolbar_field_highlight_text": "white",
