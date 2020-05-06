@@ -1,0 +1,52 @@
+{
+  "manifest_version": 2,
+  "version": "2.1",
+  "name": "PNBG (Pretty Nice Grey - Blue)",
+  "applications":{
+  "gecko": {
+  "id": "{65b1fb95-48d3-4c65-8ded-6519c1643554}"
+  }
+  },
+  
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+    
+      "frame": "rgb(17, 4, 100)",
+      "frame_inactive": "gray",
+      
+      "tab_background_text": "rgb(255, 255, 255)",
+      "tab_background_separator": "rgb(225, 225, 225)",
+      "tab_loading": "rgb(0, 21, 255)",
+	  "tab_line": "rgb(0, 21, 255)",
+      
+      
+      "toolbar": "rgb(225, 225, 225)",
+      "toolbar_text": "rgb(10, 0, 85)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "toolbar_field_focus": "rgb(225, 225, 225)",
+      "toolbar_field_highlight": "rgb(0, 21, 255)",
+      "toolbar_field_border_focus": "rgb(0, 21, 255)",
+      "toolbar_vertical_separator": "rgb(225, 225, 225)",
+      "toolbar_bottom_separator": "rgb(200, 200, 200)",
+      
+      "popup": "rgb(225, 225, 225)",
+      "popup_text": "rgb(10, 0, 85)",
+      "popup_highlight": "rgb(0, 21, 255)",
+      "popup_highlight_text": "rgb(225, 225, 225)",
+      
+      
+      "sidebar": "rgb(225, 225, 225)",
+      "sidebar_text": "rgb(10, 0, 85)",
+      "sidebar_highlight": "rgb(0, 21, 255)",
+      "sidebar_highlight_text": "white",
+      
+            
+      "ntp_background": "rgb(17, 4, 100)",
+      "ntp_text": "white"
+
+      }
+  }
+}
